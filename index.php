@@ -1,7 +1,7 @@
-<?php $company = "WALDON AUTOMOTIVE SERVICE";
-$phone = "(812) 537-1865";
-	$address1 = "348 W EADS PKWY";
-	$address2 = "LAWRENCEBURG, IN 47025";
+<?php $company = "MAX POWER AUTOMOTIVE LLC";
+$phone = "(661) 379-6875";
+	$address1 = "324 DONNA AVE";
+	$address2 = "BAKERSFIELD, CA 93304-2340";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
